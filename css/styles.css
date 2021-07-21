@@ -1,0 +1,113 @@
+body,a,button{
+  margin:0;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 23px;
+  font-weight: normal;
+  text-align: center;
+  text-decoration: none;
+  color: #637699;
+}
+.btn{
+  width: 8rem;
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  background-color: #fc8200;
+  transition: .5s ease;
+}
+.btn:hover{
+  background-color: #fca400;
+}
+hr{
+  width: 4%;
+  border: none;
+  border-top: 6px dotted #637699;
+  margin: 100px auto;
+}
+.underline{
+  text-decoration: underline;
+}
+h1{
+  font-size: 63px;
+  font-family: 'Staatliches', cursive;
+}
+h2{
+  padding: 10px;
+  font-size: 35px;
+  color: #ffb62e;
+}
+h3{
+  font-size: 27px;
+}
+h4{
+  color: #ffb62e;
+}
+.top-title{
+  margin: 81px 0;
+}
+.top-container{
+  background-color: #96BAFF;
+  padding: 62px 0 0;
+}
+.top-cloud{
+  position: absolute;
+  right: 25%;
+  top: 25px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 23%;
+}
+.mountain{
+  margin-bottom: -6px;
+}
+.middle-container{
+  margin: 100px 0;
+}
+.profile{
+  padding: 20px;
+}
+.profile-pic{
+  width: 15%;
+  border-radius: 100%;
+}
+.intro{
+  margin: auto;
+  width: 30%;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+.icon{
+  width: 22%;
+}
+.icon-graphic{
+  float: left;
+  padding-right: 30px;
+}
+.icon-web{
+  float: right;
+  padding-left: 30px;
+}
+.contact-msg{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.bottom-container{
+  background-color: #96BAFF;
+  padding: 5px;
+}
+.footer-link{
+  display: inline-block;
+  padding: 5px;
+  transition: .5s ease;
+}
+.footer-link:hover{
+  color: #ebf2ff;
+}
+.copyright{
+  color: white;
+}
